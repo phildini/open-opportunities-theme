@@ -1,7 +1,6 @@
 {
   "signin": true,
   "oauth": [
-    "myusa"
   ],
   "config": {
     "myusa": {
@@ -25,9 +24,9 @@
     "editUrl": null
   },
   "agency": {
-    "enabled": true
+    "enabled": false
   },
   "location": {
-    "enabled": true
+    "enabled": false
   }
 }
