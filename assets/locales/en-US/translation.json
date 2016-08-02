@@ -36,7 +36,7 @@
 
   "volunteerModal": {
     "notifySupervisor": "You’ve cleared your participation with your managers and your agency expects no reimbursement or formal agreement.",
-    "cantCancel": "You’ll complete your task as agreed from the outset to the best of your ability and make adjustments if you get feedback."
+    "cantCancel": "Once you offer to participate, only an admin can remove you from the project."
   },
 
   "home" : {
