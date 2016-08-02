@@ -15,7 +15,7 @@
     "logout": true
   },
   "terms": {
-    "enabled": true,
+    "enabled": false,
     "name": "Terms and Conditions",
     "link": "http://www.digitalgov.gov/join-digitalgov/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/"
   },

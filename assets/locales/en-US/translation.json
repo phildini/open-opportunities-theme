@@ -30,8 +30,8 @@
   },
 
   "loginModal" : {
-    "tosCheckbox": "I am a federal employee and agree to the ",
-    "emailAddress": "Official Government Email Address"
+    "tosCheckbox": "I agree to the ",
+    "emailAddress": "Email Address"
   },
 
   "volunteerModal": {
@@ -40,9 +40,9 @@
   },
 
   "home" : {
-    "headline" : "Open Opportunities",
-    "subhead" : "Discover opportunities across government that will help you build skills and make connections.",
-    "tagline" : "Building a 21st century government, together",
+    "headline" : "DevProgress",
+    "subhead" : "Discover opportunities across campaigns that you can contribute to.",
+    "tagline" : "Making a difference, across the ticket.",
     "callToAction" : "Browse Opportunities"
   },
 
