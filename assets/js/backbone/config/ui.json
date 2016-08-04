@@ -9,8 +9,8 @@
     "logged_in_path": "/dashboard"
   },
   "contact": {
-    "name": "openopps@gsa.gov",
-    "link": "mailto:openopps@gsa.gov"
+    "name": "volunteer@devprogress.us",
+    "link": "mailto:volunteer@devprogress.us"
   },
   "browse": {
     "pageSize" : 27,
@@ -22,6 +22,6 @@
               {"value": "completed", "label":"Completed"},
               {"value":"archived", "label":"Archived"}],
   "fullTimeDetail": {
-    "description": "**Description:**\n\n**Series/Grade (or Unclassified Duties):**\n\n**PD Number (if required):**\n\n**Preferred Start Date:**\n\n**Detail Length (up to 120 days):**\n\n**Skills Required:**\n\n"
+    "description": "**Description:**\n\n**Preferred Start Date:**\n\n**Detail Length (up to 120 days):**\n\n**Skills Required:**\n\n"
   }
 }
