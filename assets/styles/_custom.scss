@@ -1,5 +1,58 @@
 // this is loaded last allowing our customization to override anything
 
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700");
+
+$blue: #6bcff6;
+$red: #ed2126;
+$black: #000;
+$white: #fff;
+$body-text: 'Open Sans', sans-serif;
+
+body {
+  font-family: $body-text;
+  color: $black;
+}
+
 .navbar-brand img {
     padding: 8px;
+}
+
+.navbar .nav .navbar-divider {
+  color: $red;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: $red;
+}
+
+#container.home #splash1 {
+  background: $blue;
+  background-image: none;
+  color: $white;
+}
+
+.btn-midas {
+  background-color: $red;
+}
+
+.splash-wrap {
+  height: 300px;
+}
+
+#container.home #splash1 h1, #container.home #splash1 p {
+  text-shadow: 1px 1px 3px $black;
+  font-family: $body-text;
+}
+
+.home .final-call {
+  background-color: $black;
+  color: $white;
+}
+
+.btn {
+  border-radius: 2px;
+}
+
+h1, h2 {
+  font-family: $body-text;
 }
