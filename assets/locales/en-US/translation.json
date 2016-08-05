@@ -40,10 +40,10 @@
   },
 
   "home" : {
-    "headline" : "DevProgress",
-    "subhead" : "Discover opportunities across campaigns that you can contribute to.",
+    "headline" : "Volunteer Your Tech Skills For Hillary",
+    "subhead" : "Work with other talented volunteers to design and build tools to help elect Hillary Clinton and other Democratic candidates in 2016 and in the future.",
     "tagline" : "Making a difference, across the ticket.",
-    "callToAction" : "Browse Opportunities"
+    "callToAction" : "See Our Projects"
   },
 
   "commonAPI" : {
